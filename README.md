@@ -17,12 +17,14 @@ Here are some ideas to get you started:
 
 <h3 align="center">I am a  passionate Data Scientist based in Tokyo</h3>
 
-- 🌱 I’m currently upscaling my *machine learning* skills. Mostly insterested in *Deep Learning*.
-
+- 🏢 I'm currently working on personal proyects.
+- ⚙️ I use daily: `.py`, `.sh`, `.ipynb`; and from time to time: `.html`, `.svg`, `.json`, `.yml`, `.sql`
+- 💅 Active community member of: **Machine Learning Tokyo**
+- 🌱 I’m currently learning about **Machine Learning Algorithms**. Mostly insterested in *Deep Learning*.
+- 💬 Ping me about: **data analysis**, **astronomy** or **board games**
+- 📫 Reach me asap: yostephy@hotmail.com
+- 💜 Interests: children are the future, foodie, sento!
 - 👨‍💻 All of my projects are available at [notion.site/Stephany-Vargas](https://furry-feast-a46.notion.site/Stephany-Vargas-Data-Scientist-78fd1c6668594e3885d9a5ca77d3b9de)
-
-- 💬 Ask me about *astronomy*
-
 - ⚡ Fun fact: *Outer space is only 62 miles away!*
 
 <h3 align="left">Connect with me: yostephy@hotmail.com </h3>
